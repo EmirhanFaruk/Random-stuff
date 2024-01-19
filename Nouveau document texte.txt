@@ -1,0 +1,6 @@
+
+# Modification date: Fri Dec  6 10:09:46 2019
+
+# Production date: Sun Sep  3 15:42:51 2023
+
+C:\Users\33698\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.8
